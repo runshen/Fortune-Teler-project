@@ -1,0 +1,8 @@
+body{
+    text-align:center;
+    background: url("https://s3.amazonaws.com/parsec-static/img/controllers.svg");
+    background-repeat: no-repeat;
+}
+
+p{font-size:60px;
+color:orange;}
